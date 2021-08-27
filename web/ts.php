@@ -1,0 +1,1 @@
+<?phpglobal $errno, $errstr;$host = "127.0.0.1";$port = "10011";$timeout = "36";$socket = fsockopen($host, $port, $errno, $errstr, $timeout);if(!$socket){        echo("Teamspeak is <b>not</b> running.");}else{}                                fputs($socket, "quit");     fclose($socket);?> 

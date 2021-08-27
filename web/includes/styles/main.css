@@ -1,0 +1,408 @@
+html
+{
+	height: 100%;
+	margin: 0 auto;
+	padding: 0;
+	font-family: arial;
+	width: 1024px;
+	background-image: url('../images/background.jpg');
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: top;
+	background-color: #0D202E;
+}
+
+body
+{
+	margin-top: 4px;
+}
+
+a
+{
+	text-decoration: none;
+	color: #607B8B;
+}
+a:hover
+{
+	color: #8DB6CD;
+}
+
+#toptop
+{
+	color: white;
+	margin-bottom: 4px;
+	font-size: 10px;
+}
+
+#toptop select
+{
+	font-size: 10px;
+}
+
+#toptop table
+{
+	width: 100%;
+}
+
+#total
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: gray;
+	background-color: white;
+	opacity: 0.95;
+	filter: alpha(opacity=95);
+}
+
+#head
+{
+	border-bottom: dashed;
+	border-width: 1px;
+	border-color: lightgray;
+}
+
+#turkraft
+{
+	font-size: 34px;
+	padding: 20px;
+}
+
+#address
+{
+	font-size: 24px;
+	vertical-align: middle;
+}
+
+#beta
+{
+	color: yellowgreen;
+}
+
+.online
+{
+	color: green;
+}
+.online:hover
+{
+	color: darkgreen;
+}
+
+.offline
+{
+	color: red;
+}
+.offline:hover
+{
+	color: darkred;
+}
+
+#description
+{
+	font-size: 16px;
+	margin-left: 4px;
+	font-family: Tahoma;
+}
+
+#menu
+{
+	float: right;
+	padding: 6px;
+	font-size: 14px;
+	color: gray;
+}
+
+#content
+{
+	
+}
+
+#lpanel
+{
+	padding: 6px;
+	padding-top: 2px;
+}
+
+#rpanel
+{
+	width: 25%;
+	padding: 6px;
+	border-left: dashed;
+	border-width: 1px;
+	border-color: lightgray;
+}
+
+.part
+{
+	
+}
+
+.title
+{
+	font-size: 18px;
+	color: #236B8E;
+	text-align: left;
+}
+
+.shows
+{
+	font-size: 14px;
+	margin-left: 4px;
+	margin-right: 4px;
+	margin-bottom: 4px;
+}
+
+.subpart
+{
+}
+
+.subtitle
+{
+	font-size: 16px;
+}
+
+.subshow
+{
+}
+
+#foot
+{
+	padding: 4px;
+	font-size: 12px;
+	border-top: dashed;
+	border-width: 1px;
+	border-color: lightgray;
+	color: #545454;
+}
+
+.maintainer
+{
+	border-style: solid;
+	border-width: 1px;
+	width: 100%;
+	border-color: gray;
+}
+
+.heading
+{
+	background-color: lightgray;
+	background-image: url('../images/theadbg.png');
+	background-position: center;
+	font-size: 18px;
+	color: white;
+}
+
+.tainerbot
+{
+	border-bottom: solid;
+	border-width: 1px;
+	border-color: lightgray;
+}
+
+#welcome
+{
+	float: left;
+	padding-top: 7px;
+	padding-left: 7px;
+	font-size: 12px;
+	color: gray;
+	position: absolute;
+}
+
+.newsposter
+{
+	font-size: 12px;
+}
+
+.newsdate
+{
+	font-size: 14px;
+}
+
+.commentpic
+{
+	vertical-align: middle;
+}
+
+.commenttop
+{
+	font-size: 12px;
+}
+
+.acomment
+{
+	font-size: 14px;
+}
+
+.commentdate
+{
+	float: right;
+}
+
+.comment
+{
+	word-wrap: break-word;
+}
+
+.errors
+{
+	color: red;
+	font-size: 12px;
+}
+
+.tutit
+{
+	font-size: 16px;
+	color: #236B8E;
+	text-align: left;
+}
+
+
+.reportpic
+{
+	vertical-align: middle;
+}
+
+.reporttop
+{
+	font-size: 12px;
+}
+
+.areport
+{
+	font-size: 14px;
+}
+
+.reportdate
+{
+	float: right;
+}
+
+.betat
+{
+	width: 18px;
+	height: 18px;
+	vertical-align: middle;
+	margin-left: 4px;
+}
+
+.mzero
+{
+	margin-top: 4px;
+}
+
+.profilename
+{
+	font-size: 18px;
+	text-decoration: underline;
+}
+
+.profiletop
+{
+	border-style: solid;
+	border-width: 1px;
+	margin-bottom: 8px;
+	border-color: #0D202E;
+	background-color: #E8E8E8;
+}
+
+.profilel1
+{
+	background-color: #D1D1D1;
+}
+
+.profilel2
+{
+	background-color: #E5E5E5;
+}
+
+.changes
+{
+	color: green;
+	font-size: 12px;
+}
+
+img
+{
+	border-style: none;
+}
+
+hr
+{
+	height: 1px;
+	width: 80%;
+	border-width: 1px;
+	border-style: solid;
+	border-color: #0D202E;
+}
+
+.forums
+{
+	width: 100%;
+	border-style: solid;
+	border-width: 1px;
+	border-color: lightgray;
+}
+.forums th
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: lightgray;
+}
+.forums td
+{
+	border-style: solid;
+	border-width: 1px;
+	border-color: lightgray;
+}
+
+.minion
+{
+	vertical-align: middle;
+}
+
+.msg
+{
+}
+.msg table
+{
+	background-color: beige;
+	width: 100%;
+	border-style: dotted;
+	border-width: 1px;
+	border-color: lightgray;
+}
+.msg table td
+{
+}
+
+.msgpost
+{
+	vertical-align: middle;
+}
+
+.msgcon
+{
+	font-size: 12px;
+}
+
+.msgrep
+{
+	padding: 4px;
+	background-color: beige;
+	border-style: dotted;
+	border-width: 1px;
+	border-color: lightgray;
+	width: 95%;
+	height: 92px;
+}
+
+.createte
+{
+	width: 99%;
+	height: 256px;
+}
+
+.subpos
+{
+	font-size: 12px;
+}
